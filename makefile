@@ -13,3 +13,7 @@ run:
 	
 clean:
 	rm *.o
+	rm outpu
+	rm inpu
+	rm file1
+	rm file0
